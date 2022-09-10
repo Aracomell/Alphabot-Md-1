@@ -1,4 +1,4 @@
-const fs = require('fs')
+    const fs = require('fs')
 const chalk = require('chalk')
 const  { indonesia, english, spanyol} = require(`./language`)
 
@@ -35,7 +35,7 @@ global.email = "araaa7158@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6289504231588'] //premium user
-global.owner = ["6285942139006","6285942139006"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6289504231588","6289504231588"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6289504231588" // nomor wa kalian
 global.ownernomerr = "+6289504231588" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
